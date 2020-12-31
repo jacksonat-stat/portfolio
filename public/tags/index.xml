@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Website of Andrea Jackson</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Website of Andrea Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>math achievement</title>
+      <link>https://example.com/tags/math-achievement/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/math-achievement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIMSS</title>
+      <link>https://example.com/tags/timss/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/timss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assessment</title>
+      <link>https://example.com/tags/assessment/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcu</title>
+      <link>https://example.com/tags/vcu/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/vcu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cost estimation</title>
+      <link>https://example.com/tags/cost-estimation/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cost-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://example.com/tags/regression/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

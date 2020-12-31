@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on Website of Andrea Jackson</title>
+    <link>https://example.com/categories/syntax/</link>
+    <description>Recent content in syntax on Website of Andrea Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VDOT Research Project</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      <description>Virginia Department of Transportation: Phase II - Construction Model Executive Summary Prepared by:Rebecca Bergee, Anton Highton-Slater, Andrea Jackson, and Chelsea Mitchell (the Team) The Virginia Department of Transportation (VDOT) is seeking a statistical model that will aid in Phase II of their oversight estimation costs.</description>
+    </item>
+    
+  </channel>
+</rss>
