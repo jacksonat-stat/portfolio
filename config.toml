@@ -1,4 +1,4 @@
-baseURL = "https://andreaj-portfolio.netlify.app/post"
+baseURL = "https://andreaj-portfolio.netlify.app"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Andrea Jackson"
