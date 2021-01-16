@@ -11,6 +11,8 @@ tags = [
 ##Poverty in Virginia 
 #### data source: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi 
 #### Data cleaning done in Rstudio
+Zip code data and percentages of joint tax filers that earn less than $25k were extracted and cleaned from the IRS website
+
 ### code:
 
 ```{r include = TRUE}
