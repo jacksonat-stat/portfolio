@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Andrea Jackson</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Website of Andrea Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIMSS Economic and Educational Background Research paper</title>
+      <link>https://example.com/post/rich-content/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/rich-content/</guid>
+      <description>&lt;h3 id=&#34;educational-and-economic-background-variables-related-to-mathematics-achievement-a-comparative-study-in-singapore-ireland-and-jordan&#34;&gt;Educational and economic background variables related to mathematics achievement: A comparative study in Singapore, Ireland, and Jordan&lt;/h3&gt;
+&lt;h3 id=&#34;by-elizabeth-beazley-anton-highton-slater-andrea-jackson-julia-reed-alexandra-ulbing--fa-zhang&#34;&gt;By: Elizabeth Beazley, Anton Highton-Slater, Andrea Jackson, Julia Reed, Alexandra Ulbing &amp;amp; Fa Zhang&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>VCU Training Program Assessment</title>
+      <link>https://example.com/post/placeholder-text/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/placeholder-text/</guid>
+      <description>Executive Summary By Andrea Jackson The Recreational Sports department of VCU is seeking to understand if their various in house training programs contribute to the professional development of the students involved.</description>
+    </item>
+    
+    <item>
+      <title>VDOT Research Project</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      <description>Virginia Department of Transportation: Phase II - Construction Model Executive Summary Prepared by:Rebecca Bergee, Anton Highton-Slater, Andrea Jackson, and Chelsea Mitchell (the Team) The Virginia Department of Transportation (VDOT) is seeking a statistical model that will aid in Phase II of their oversight estimation costs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://example.com/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I am a Statistician with background in health care policy.</description>
+    </item>
+    
+  </channel>
+</rss>
