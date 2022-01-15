@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 ### Educational and economic background variables related to mathematics achievement: A comparative study in Singapore, Ireland, and Jordan
-#### By: Elizabeth Beazley, Anton Highton-Slater, Andrea Jackson, Julia Reed, Alexandra Ulbing & Fa Zhang
+#### By: VCU SSOR 690 Research Team
 
 <!--more-->
 ---
