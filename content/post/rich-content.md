@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 ### Educational and economic background variables related to mathematics achievement: A comparative study in Singapore, Ireland, and Jordan
-#### By: 2020 SSOR 690 Research Team
+#### By: SSOR 690 Research Team
 
 <!--more-->
 ---
