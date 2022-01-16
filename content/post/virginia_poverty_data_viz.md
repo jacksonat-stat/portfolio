@@ -60,3 +60,7 @@ names(low_income_va_zip)[2]<-"low_income_percentage"
 ```
 ### Tableau visualization
 ![virginia_map](/images/low_income_va.png)
+
+<div style="align: center; margin-left: -150px;"> <iframe src="https://public.tableau.com/views/low_income_va/Dashboard1?:showVizHome=no&:embed=true" width="1000px" height="900px" frameborder="0"></iframe> </div> 
+
+
