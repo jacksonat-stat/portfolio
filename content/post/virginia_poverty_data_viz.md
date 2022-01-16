@@ -59,7 +59,7 @@ names(low_income_va_zip)[2]<-"low_income_percentage"
 
 ```
 ### Tableau visualization
-##![virginia_map]#(/images/low_income_va.png)
+
 
 
 {{< tableau "viz1642298698715" "lo" "low_income_va" "Dashboard1" >}}
