@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Andrea Jackson"
 author = "Andrea Jackson"
-description = "Statistician, Graduate Student, Data Narrator"
+description = "Professionally trained Statistician and Data Scientist"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -62,7 +62,7 @@ url = "https://www.instagram.com/jacksonat_33"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "jacksonat@vcu.edu"
+url = "andreajackson656@gmail.com"
 
 ## Menu items
 
