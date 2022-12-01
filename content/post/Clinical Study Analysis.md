@@ -13,7 +13,7 @@ tags = [
 
 ## Statistical Analysis Used Lacanemab in Early Alzeimers Disease 
 Two Sample T-test to determine the initial sample sizes for the placebo group and the treatment group.
-Alpha is set at .05 and Power is .90. The sigma from a previous study is 2.031 and the estimated delta is .373. The Cohens D is .1836 rounded to .2. The Sample size at these levels is 624.
+Alpha is set at .05 and Power is .90. The sigma from a previous study is 2.031 and the estimated delta is .373. The Cohens D is .1836. The Sample size at these levels is 624.
 
 
 ```
