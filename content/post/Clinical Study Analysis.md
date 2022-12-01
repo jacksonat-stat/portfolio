@@ -1,4 +1,4 @@
----
++++
 title: "Weekly Clinical Data Review"
 author: "Andrea Jackson"
 date: "11/30/2022"
@@ -6,7 +6,7 @@ tags = [
     "T-test",
     "Statistical Analysis",
 ]
----
++++
 
 
 
