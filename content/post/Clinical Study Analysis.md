@@ -1,7 +1,7 @@
 +++
 title= "Weekly Clinical Data Review"
 author= "Andrea Jackson"
-date= "11/30/2022"
+date= "2022-11-30"
 tags = [
     "T-test",
     "Statistical Analysis",
