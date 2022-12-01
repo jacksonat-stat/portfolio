@@ -26,7 +26,7 @@ pwr.t.test(d=.d,sig.level=.05,power=.90,type = 'two.sample',alternative = "two.s
 
 ```
 
-## Final Sample Size
+## Final Sample Size for study
 
 After accounting for a 20% drop out rate. The New sample size is 783.
 
