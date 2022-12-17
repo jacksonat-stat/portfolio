@@ -2,11 +2,17 @@
 title= "Multicollinearity"
 author= "Andrea Jackson"
 date= "2022-12-03"
+
 tags = [
     "Regression",
     "Statistical Analysis",
 ]
+
+
 +++
+
+
+
 
 ## Multicollinearity
 Multicollinearity is a linear association among  regressor variables and exists when two or more regressors have high empirical correlations.
@@ -14,7 +20,11 @@ Multicollinearity is a linear association among  regressor variables and exists 
 ## Mathematical Definition
 Muticollinearity occurs when there exists a vector,C!=0 such that 
 
-$$\sum_{j = 1}^{k} c_{j}x_{j}* = 0$$
+
+
+
+![multicollinearity](https://latex.codecogs.com/svg.latex?\Large&space;\sum_{j&space;=&space;1}^{k}&space;c_{j}x_{j}*&space;=&space;0)
+
 
 
 ```
@@ -44,27 +54,16 @@ What is  it about these small eigenvalues that causes the coefficients to have l
 
  
 
-$$
-The\ coefficients\ of\ B\ =(X^{*'}X)^{-1} X'Y 
-$$
+
+
+The Coefficients of ![coefficients](https://latex.codecogs.com/svg.latex?\Large&space;B\&space;=(X^{*'}X)^{-1}&space;X'Y&space;&space;) can be re-written as ![coefficients](https://latex.codecogs.com/svg.latex?\Large&space;V\Lambda^{-1}V'X^{*'}Y&space;&space;)
+
+
+
+Such that V is orthogonal ie ![v matrix](https://latex.codecogs.com/svg.latex?\Large&space;V'\&space;=&space;V^{-1}&space;&space;) and ![lambda](https://latex.codecogs.com/svg.latex?\Large&space;\Lambda\&space;&space;) is a diagonal matrix whose diagonal matrix whose diagonal elements are the eigenvalues of ![lambda](https://latex.codecogs.com/svg.latex?\Large&space;X^{*'}X&space;&space;)
 
 
 
 
 
-
-
-
-$$can\ be\ re-written\ as\ V\Lambda^{-1}V'X^{*'}Y$$
-
-
-
-
-$$Such\ that\ V\ is\ orthogonal\ ie\  V'\ = V^{-1}$$
-
-
-$$and\ \Lambda\ is\ a\ diagonal\ matrix\ whose\ diagonal\ elements\ are\ the\ eigenvalues\ of\ X^{*'}X$$
-
-
-
-$$Note\ that\ since\ the\ inverse\ of\ \Lambda\ is\ used\ in\ the\ calcuation\ of\ the\ Beta\ estimates\ that\ means\ any\ lamdas\ close\ to\ zero\ when\ inverted\ will\ be\ come\ large\ and\ increase\ the\ overall\ coefficients\ and\ increase\ the\ absolute\ values\ of\ the\ predictions$$
+Note that since the inverse of ![lambda](https://latex.codecogs.com/svg.latex?\Large&space;\Lambda\&space;&space;) is used in the calculation of the Beta estimates that means any lambdas close to zero when inverted will become large and increase the overall coefficients and increase the absolute values of the predictions
